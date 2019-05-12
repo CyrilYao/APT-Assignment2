@@ -4,7 +4,7 @@
 LinkedList::LinkedList() {
    head = nullptr;
 
-   // TODO
+  // TODO
 }
 LinkedList::~LinkedList()
 {
